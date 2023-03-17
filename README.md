@@ -3,7 +3,7 @@
 
 - 🌱 I’m currently learning **Flutter and Jetpack Compose**
 
-- 👨‍💻 All of my projects are available at [https://github.com/mo7ammedtabasi](https://github.com/mo7ammedtabasi)
+- 👨‍💻 All of my projects are available at [https://github.com/mo7ammedtabasi?tab=repositories](https://github.com/mo7ammedtabasi?tab=repositories)
 
 - 📫 How to reach me **mo7ammedtabasi@gmail.com**
 
