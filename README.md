@@ -7,7 +7,7 @@
 
 - 📫 How to reach me **mo7ammedtabasi@gmail.com**
 
-- My CV [here](https://drive.google.com/file/d/1YE2F8tjy4vC7LIhcZjAxh8fee54Wx5dk/view?usp=sharing)
+- My [CV](https://drive.google.com/file/d/1YE2F8tjy4vC7LIhcZjAxh8fee54Wx5dk/view?usp=sharing)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
