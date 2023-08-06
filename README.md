@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Mohammed Tabasi</h1>
-<h3 align="center">A passionate Android developer from Palestine</h3>
+<h3 align="center">A passionate Android developer and Flutter from Palestine</h3>
 
-- 🌱 I’m currently learning **Flutter and Jetpack Compose**
+- 🌱 I’m currently learning **Jetpack Compose**
 
 - 👨‍💻 All of my projects are available at [repositories](https://github.com/mo7ammedtabasi?tab=repositories)
 
